@@ -1,0 +1,2 @@
+# Simple-Note-Saver-Extension
+"Effortlessly save, manage, and edit your notes directly within your browser. This extension allows you to create, view, and modify notes with ease. Enjoy a seamless experience with features like quick note saving, a convenient search function, and the ability to view and edit your notes in an expanded window for better readability and editing. Ideal for users looking for a simple and effective note management tool."
