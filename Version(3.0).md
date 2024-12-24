@@ -1,7 +1,3 @@
-Here's an updated Git post for **Simple Note Saver v3.0**, incorporating the latest improvements:
-
----
-
 # Simple Note Saver Extension v3.0  
 
 ## **Effortlessly save, manage, and edit your notes directly within your browser.**  
