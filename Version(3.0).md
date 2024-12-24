@@ -93,5 +93,3 @@ If you love using Simple Note Saver, consider supporting its development. Every 
 This project is licensed - see the [LICENSE](LICENSE) file for details.  
 
 ---
-
-This updated post emphasizes the v3.0 improvements while retaining the essential details about the extension's functionality and usability. Let me know if you'd like any further tweaks!
